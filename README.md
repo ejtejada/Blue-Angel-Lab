@@ -1,2 +1,2 @@
 # Blue-Angel-Lab
-The new project that I would begin on ixo platform is Blue Anagel Lab project ,it is a project  to promote  scientific research become greener and environment friendly
+This is is Blue Angel Lab project. It is an ixo platform project to promote scientific research and greener and environmentally friendly donations.
