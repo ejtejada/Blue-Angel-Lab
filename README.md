@@ -1,2 +1,3 @@
 # Blue-Angel-Lab
-This is is Blue Angel Lab project. It is an ixo platform project to promote scientific research and greener and environmentally friendly donations.
+This is is Blue Angel Lab project. It is an  project toto improve the efficiency and transparency of our charity activity using blockchain technology.  Blue Angel Lab  blockchain charity system can be used to carry out and trace charity project, for example environment protection project  or donation. We can transform our system according to the needs of customers and help public welfare organizations customize personalized public welfare projects. For example, environmental protection public welfare projects, education public welfare projects, poverty alleviation donation projects and other public welfare projects.
+
