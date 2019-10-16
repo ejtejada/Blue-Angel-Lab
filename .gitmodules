@@ -1,3 +1,6 @@
 [submodule "Front-End/bal-frontend-v1"]
 	path = Front-End/bal-frontend-v1
 	url = https://github.com/t1anchen/bal-frontend-v1.git
+[submodule "src/bal-chain-v2"]
+	path = Front-End/bal-chain-v2
+	url = https://github.com/t1anchen/bal-chain-v2.git
